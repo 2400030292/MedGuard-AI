@@ -1,0 +1,7 @@
+{
+  "name": "MediGuard AI",
+  "description": "Hospital Verification OS for pharmaceutical tracking, validation, and quality control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
